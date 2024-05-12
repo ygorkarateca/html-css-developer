@@ -13,3 +13,14 @@ Atributos das tags
 <id> - identificar algo para acrecentar ao texto
 <style> - usando para colocar cor e fonte
 (class) - usado pra padronizar textos
+<blockquote> - cria uma citação 
+<sup> - eleva um textos
+<ol> - lista ordenadas
+<ul> - lista não ordenadas
+<li> - itens da lista ordenadas
+<a> - tag de ancoragem
+
+
+
+Tipográfia de HTML
+w3schools.com
