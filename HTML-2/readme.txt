@@ -27,3 +27,4 @@ Tipos de input
 <input type="text"> - Adiciona um campo para adicionar números e textos
 <input type="number"> - Adiciona um campo para adicionar somente números
 <input type="password"> - Adiciona um campo para senha, podendo adicionar qualquer tipo de caracteres
+<input type="checkbox"> - disabled(desabilita opção no checkbox)
