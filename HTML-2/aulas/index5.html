@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Select e seus tipos</title>
+</head>
+<body>
+    <form onsubmit="alert('Enviado');" method="get" action="#">
+        <label>Nome: </label><input type="text" name="name"><br>
+        <label>Cargo: </label>
+        <select name="role">
+            <option value="">Selecione o cargo</option>
+            <option value="presidente">Presidente</option>
+            <option value="diretor">Diretor</option>
+            <option value="ge">Gerente Executivo</option>
+            <option value="gg">Gerente Geral</option>
+            <option value="gerente">Gerente</option>
+            <option value="gs">Gerente Setorial</option>
+        </select>
+        <br>
+        <label>Assunto: </label><input type="text" name="subject"><br>
+        <br>
+        <label>Observação: </label><textarea rows="10" cols="30" name="obs"></textarea>
+        <br>
+        <button value="onsubmit">Enviar</button>
+        
+    </form>
+</body>
+</html>

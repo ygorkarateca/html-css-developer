@@ -28,3 +28,8 @@ Tipos de input
 <input type="number"> - Adiciona um campo para adicionar somente números
 <input type="password"> - Adiciona um campo para senha, podendo adicionar qualquer tipo de caracteres
 <input type="checkbox"> - disabled(desabilita opção no checkbox)
+
+Tipos de Select
+
+<select name=""> - Cria um campo para seleções de opção
+<option value=""> - Usado para adicionar opções para o select
